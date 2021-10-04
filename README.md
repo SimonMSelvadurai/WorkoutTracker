@@ -34,11 +34,14 @@ npm i
 node server.js
 ```
 
-## Workout Tracker Scrteenshot
-![Workout Tacker]()
+## Workout Tracker HomePage
+![Workout Tacker](/images/HomePage.JPG)
 
-## Workout Dashboard Screenshot
-![Workout Dashboard]()
+## Workout Tracker Dashboard 
+![Workout Dashboard](/images/Dashboard.JPG)
+
+## Workout Dashboard Add Workouts
+![Workout Dashboard](/images/New-Add-Workouts.JPG)
 
 # Features
 
