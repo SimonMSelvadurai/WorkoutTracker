@@ -13,7 +13,9 @@ This workout tracker will allow users to create and track workouts. The applicat
 
 ## Demo
 
-Deployed App: https://......herokuapp.com/
+Deployed App: https://simon-workout-tracker.herokuapp.com/
+
+Source Code : https://github.com/SimonMSelvadurai/WorkoutTracker
 
 ## Technology
 HTML, CSS, JavaScript, Mongo DB, Mongoose NPM Packages: Express, Morgan, Mongoose
